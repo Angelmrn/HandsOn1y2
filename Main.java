@@ -1,3 +1,4 @@
+//Moran Flores Angel Daniel
 public class Main {
     public static void main(String[] args) {
         // Configuración del perceptrón sin sesgo (para AND)

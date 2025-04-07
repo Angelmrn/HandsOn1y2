@@ -18,7 +18,7 @@ public class Perceptron {
     
     // Función Sigmoid como función de activación
     private double sigmoid(double z) {
-        return 1.0 / (1.0 + Math.exp(-z));
+        return 1.0 / (1.0 + Math.exp(-z));//f(x) = 1 / (1 + e^(-x))
     }
     
 
